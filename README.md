@@ -1,3 +1,10 @@
+
+
+![movie_flix](https://github.com/user-attachments/assets/895cdccd-0b61-4478-a2ad-7db8e19e7a4f)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
